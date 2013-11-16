@@ -1,13 +1,13 @@
 """
-Created: Logan Miller
+Creating a test branch.
+
 """
 
 import os
 import lxml.html
 import nltk, re, pprint 
 
-#nltk.download()            # install packages
-os.chdir("C:/Users/Logan/Desktop")      # sets work directory
+# sets work directory
 
 rawtext = open("1.crf").read() 
 #print rawtext               # prints rawtext
