@@ -1,3 +1,7 @@
+"""
+Created: Logan Miller
+"""
+
 import os
 import lxml.html
 import nltk, re, pprint 
